@@ -1,0 +1,6 @@
+[submodule "translated-content"]
+	path = translated-content
+	url = https://github.com/mdn/translated-content
+[submodule "content"]
+	path = content
+	url = https://github.com/mdn/content
